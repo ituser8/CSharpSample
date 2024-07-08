@@ -1,0 +1,74 @@
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample_MarkupCompile.cache
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample_MarkupCompile.lref
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\bin\Debug\net8.0-windows\WPF sample.exe
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\bin\Debug\net8.0-windows\WPF sample.deps.json
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\bin\Debug\net8.0-windows\WPF sample.runtimeconfig.json
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\bin\Debug\net8.0-windows\WPF sample.dll
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\bin\Debug\net8.0-windows\WPF sample.pdb
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\bin\Debug\net8.0-windows\MyClassLibrary.dll
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\bin\Debug\net8.0-windows\MyClassLibrary.pdb
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.g.resources
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.csproj.Up2Date
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.dll
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\obj\Debug\net8.0-windows\refint\WPF sample.dll
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.pdb
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\WPF sample\WPF sample\obj\Debug\net8.0-windows\ref\WPF sample.dll
+D:\Knowledge\C#\WPF sample\WPF sample\bin\Debug\net8.0-windows\WPF sample.exe
+D:\Knowledge\C#\WPF sample\WPF sample\bin\Debug\net8.0-windows\WPF sample.deps.json
+D:\Knowledge\C#\WPF sample\WPF sample\bin\Debug\net8.0-windows\WPF sample.runtimeconfig.json
+D:\Knowledge\C#\WPF sample\WPF sample\bin\Debug\net8.0-windows\WPF sample.dll
+D:\Knowledge\C#\WPF sample\WPF sample\bin\Debug\net8.0-windows\WPF sample.pdb
+D:\Knowledge\C#\WPF sample\WPF sample\bin\Debug\net8.0-windows\MyClassLibrary.dll
+D:\Knowledge\C#\WPF sample\WPF sample\bin\Debug\net8.0-windows\MyClassLibrary.pdb
+D:\Knowledge\C#\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.csproj.AssemblyReference.cache
+D:\Knowledge\C#\WPF sample\WPF sample\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Knowledge\C#\WPF sample\WPF sample\obj\Debug\net8.0-windows\App.g.cs
+D:\Knowledge\C#\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample_MarkupCompile.cache
+D:\Knowledge\C#\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample_MarkupCompile.lref
+D:\Knowledge\C#\WPF sample\WPF sample\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Knowledge\C#\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.g.resources
+D:\Knowledge\C#\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Knowledge\C#\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.AssemblyInfoInputs.cache
+D:\Knowledge\C#\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.AssemblyInfo.cs
+D:\Knowledge\C#\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.csproj.CoreCompileInputs.cache
+D:\Knowledge\C#\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.sourcelink.json
+D:\Knowledge\C#\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.csproj.Up2Date
+D:\Knowledge\C#\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.dll
+D:\Knowledge\C#\WPF sample\WPF sample\obj\Debug\net8.0-windows\refint\WPF sample.dll
+D:\Knowledge\C#\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.pdb
+D:\Knowledge\C#\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.genruntimeconfig.cache
+D:\Knowledge\C#\WPF sample\WPF sample\obj\Debug\net8.0-windows\ref\WPF sample.dll
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\bin\Debug\net8.0-windows\WPF sample.exe
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\bin\Debug\net8.0-windows\WPF sample.deps.json
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\bin\Debug\net8.0-windows\WPF sample.runtimeconfig.json
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\bin\Debug\net8.0-windows\WPF sample.dll
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\bin\Debug\net8.0-windows\WPF sample.pdb
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\bin\Debug\net8.0-windows\MyClassLibrary.dll
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\bin\Debug\net8.0-windows\MyClassLibrary.pdb
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.csproj.AssemblyReference.cache
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\obj\Debug\net8.0-windows\App.g.cs
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample_MarkupCompile.cache
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample_MarkupCompile.lref
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.g.resources
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.AssemblyInfoInputs.cache
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.AssemblyInfo.cs
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.csproj.CoreCompileInputs.cache
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.sourcelink.json
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.csproj.Up2Date
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.dll
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\obj\Debug\net8.0-windows\refint\WPF sample.dll
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.pdb
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\obj\Debug\net8.0-windows\WPF sample.genruntimeconfig.cache
+D:\Knowledge\C#\CSharpSample\WPF sample\WPF sample\obj\Debug\net8.0-windows\ref\WPF sample.dll

@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Knowledge\\C#\\CSharpSample\\WPF sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13F60E3E-13AC-40AC-8C1E-7A735EE98E02}|WPF sample\\WPF sample.csproj|d:\\knowledge\\c#\\csharpsample\\wpf sample\\wpf sample\\wpf sample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{13F60E3E-13AC-40AC-8C1E-7A735EE98E02}|WPF sample\\WPF sample.csproj|solutionrelative:wpf sample\\wpf sample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F60E3E-13AC-40AC-8C1E-7A735EE98E02}|WPF sample\\WPF sample.csproj|d:\\knowledge\\c#\\csharpsample\\wpf sample\\wpf sample\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13F60E3E-13AC-40AC-8C1E-7A735EE98E02}|WPF sample\\WPF sample.csproj|solutionrelative:wpf sample\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F60E3E-13AC-40AC-8C1E-7A735EE98E02}|WPF sample\\WPF sample.csproj|d:\\knowledge\\c#\\csharpsample\\wpf sample\\wpf sample\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F60E3E-13AC-40AC-8C1E-7A735EE98E02}|WPF sample\\WPF sample.csproj|solutionrelative:wpf sample\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F60E3E-13AC-40AC-8C1E-7A735EE98E02}|WPF sample\\WPF sample.csproj|d:\\knowledge\\c#\\csharpsample\\wpf sample\\wpf sample\\wpf sample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13F60E3E-13AC-40AC-8C1E-7A735EE98E02}|WPF sample\\WPF sample.csproj|solutionrelative:wpf sample\\wpf sample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196D8EE5-BA2B-43C5-B648-688C39D6ACA0}|MyClassLibrary\\MyClassLibrary.csproj|d:\\knowledge\\c#\\csharpsample\\wpf sample\\myclasslibrary\\myclasslibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196D8EE5-BA2B-43C5-B648-688C39D6ACA0}|MyClassLibrary\\MyClassLibrary.csproj|solutionrelative:myclasslibrary\\myclasslibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WPF sample",
+              "DocumentMoniker": "D:\\Knowledge\\C#\\CSharpSample\\WPF sample\\WPF sample\\WPF sample.csproj",
+              "RelativeDocumentMoniker": "WPF sample\\WPF sample.csproj",
+              "ToolTip": "D:\\Knowledge\\C#\\CSharpSample\\WPF sample\\WPF sample\\WPF sample.csproj",
+              "RelativeToolTip": "WPF sample\\WPF sample.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T06:44:22.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WPF sample.csproj",
+              "DocumentMoniker": "D:\\Knowledge\\C#\\CSharpSample\\WPF sample\\WPF sample\\WPF sample.csproj",
+              "RelativeDocumentMoniker": "WPF sample\\WPF sample.csproj",
+              "ToolTip": "D:\\Knowledge\\C#\\CSharpSample\\WPF sample\\WPF sample\\WPF sample.csproj",
+              "RelativeToolTip": "WPF sample\\WPF sample.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T04:02:52.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyClassLibrary.cs",
+              "DocumentMoniker": "D:\\Knowledge\\C#\\CSharpSample\\WPF sample\\MyClassLibrary\\MyClassLibrary.cs",
+              "RelativeDocumentMoniker": "MyClassLibrary\\MyClassLibrary.cs",
+              "ToolTip": "D:\\Knowledge\\C#\\CSharpSample\\WPF sample\\MyClassLibrary\\MyClassLibrary.cs",
+              "RelativeToolTip": "MyClassLibrary\\MyClassLibrary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T03:48:58.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Knowledge\\C#\\CSharpSample\\WPF sample\\WPF sample\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF sample\\MainWindow.xaml",
+              "ToolTip": "D:\\Knowledge\\C#\\CSharpSample\\WPF sample\\WPF sample\\MainWindow.xaml",
+              "RelativeToolTip": "WPF sample\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-08T02:08:00.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Knowledge\\C#\\CSharpSample\\WPF sample\\WPF sample\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF sample\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Knowledge\\C#\\CSharpSample\\WPF sample\\WPF sample\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF sample\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCYAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:07:58.701Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
